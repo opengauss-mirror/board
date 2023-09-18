@@ -24,13 +24,13 @@ openGauss开源社区理事会（Board）是openGauss社区的领导机构。
 
 当前理事会成员包括：
 
-* 江大勇        华为技术有限公司                       <jiangdayong@huawei.com>      # 理事长
-* 胡正策      华为技术有限公司               <huzhengce@huawei.com>    # 秘书长
+* 胡正策      华为技术有限公司                       <huzhengce@huawei.com>    # 理事长
+* 蔡亚杰      华为技术有限公司               <jikey.cai@huawei.com>    # 秘书长
 * 盖国强      云和恩墨(北京)信息技术有限公司           <eygle@enmotech.com> # 理事
 * 何振岩        超聚变数字技术有限公司              <hezhenyan@xfusion.com>   # 理事
 * 顾云苏      天津神舟通用数据技术有限公司                <guyunsu@shentongdata.com>       # 理事
 * 郭志军      交通银行股份有限公司          <guo.zj@bankcomm.com>     # 理事
-* 韩锋    建信金融科技有限责任公司                  <hanfeng7766@126.com>       # 理事
+* 孙国荣    建信金融科技有限责任公司                  <informixer@163.com>       # 理事
 * 何佳佳    中国邮政储蓄银行股份有限公司                <hejiajia@psbcoa.com.cn>  # 理事
 * 胡捷    华夏银行股份有限公司              <zhhujie@hxb.com.cn>       # 理事
 * 李国良   清华大学                                   <andyli1@huawei.com>  # 理事
@@ -49,7 +49,7 @@ openGauss开源社区理事会（Board）是openGauss社区的领导机构。
 * 张益   天津南大通用数据技术股份有限公司            <zhangyi@gbase.cn>  # 理事
 * 周伟然   兴业银行                                <zhouwr@cib.com.cn>  # 理事
 
-
+[点击查看往届理事会成员](./Former Board of Directors.md)
 
 ### 秘书处
 
