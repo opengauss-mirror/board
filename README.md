@@ -49,7 +49,7 @@ openGauss开源社区理事会（Board）是openGauss社区的领导机构。
 * 张益   天津南大通用数据技术股份有限公司            <zhangyi@gbase.cn>  # 理事
 * 周伟然   兴业银行                                <zhouwr@cib.com.cn>  # 理事
 
-点击[查看往届理事会成员](Former Board of Directors.md)
+点击[查看往届理事会成员](./Former_Board_of_Directors.md)
 
 ### 秘书处
 
