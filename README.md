@@ -43,7 +43,7 @@ openGauss开源社区理事会（Board）是openGauss社区的领导机构。
 * 钟忻    中国联合网络通信集团有限公司              <zhongx59@chinaunicom.cn>       # 理事
 * 袁春光   中国民生银行股份有限公司                   <yuanchunguang@cmbc.com.cn>  # 理事
 * 张春    中国移动通信集团有限公司              <zhangchun@chinamobile.com>       # 理事
-* 钟承诚   深信服科技股份有限公司                     <zhongchengcheng@sangfor.com.cn>  # 理事
+* 周正德   深信服科技股份有限公司                     <zhouzhengde@sangfor.com.cn>  # 理事
 * 徐兵   中国交通信息科技集团有限公司                     <xubing@ccccltd.cn>  # 理事
 * 刘辰   京东科技集团                              <liuchen12@jd.com>  # 理事
 * 张益   天津南大通用数据技术股份有限公司            <zhangyi@gbase.cn>  # 理事
