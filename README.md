@@ -24,7 +24,7 @@ openGauss开源社区理事会（Board）是openGauss社区的领导机构。
 
 当前理事会成员包括：
 
-* 胡正策      华为技术有限公司                       <huzhengce@huawei.com>    # 理事长
+* 熊伟      华为技术有限公司                       <xiongwei888@huawei.com>    # 理事长
 * 蔡亚杰      华为技术有限公司               <jikey.cai@huawei.com>    # 秘书长
 * 盖国强      云和恩墨(北京)信息技术有限公司           <eygle@enmotech.com> # 理事
 * 何振岩        超聚变数字技术有限公司              <hezhenyan@xfusion.com>   # 理事
